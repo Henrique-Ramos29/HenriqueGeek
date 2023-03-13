@@ -1,5 +1,8 @@
 .colecao__titulo__Principal {
     text-align: center;
+    font-size: 35px;
+    margin-bottom: 34px;
+    margin-top: 19px;
 }
 .colecao__geral{
     display: flex;
