@@ -6,7 +6,7 @@ coloque nas sessões indicadas*/
     /*Insira a variavel das outras cores inspecionando o modelo do figma*/
     /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
   
-    --cor-de-fundo: #fff;
+    --azul-escuro: #00235B;
     --cor-de-link: #000;
     --rosa: #ff66c4;
     --branco: #fff;
@@ -15,12 +15,11 @@ coloque nas sessões indicadas*/
   }
   
   body {
-    box-sizing: border-box;
-    background-color: var(--branco);
+
     font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
-    line-height: 1;
+    
   }
   ol,
   ul,

@@ -1,0 +1,29 @@
+.colecao__titulo__Principal {
+    text-align: center;
+    font-size: 33px;
+    margin-bottom: 34px;
+    margin-top: 40px;
+}
+.colecao__geral{
+    display: flex;
+    flex-flow: wrap-reverse;
+    justify-content: center;
+    gap: 45px;
+    
+}
+
+.colecao__titulo {
+    font-family: 'Intel', sans-serif;
+    font-size: 20px;
+    margin-top: 13px;
+}
+
+.colecao__descricao {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 13px;
+    color: var(--azul-escuro);
+}
+
+.colecao__botao {
+    margin-top: 13px;
+}
