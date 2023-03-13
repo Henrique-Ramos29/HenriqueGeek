@@ -1,0 +1,10 @@
+.colecao__titulo__Principal {
+    text-align: center;
+}
+.colecao__geral{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 45px;
+    
+}

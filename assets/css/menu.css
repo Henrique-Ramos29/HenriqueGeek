@@ -1,0 +1,37 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    margin: 90px;
+}
+.logo {
+  margin-top: 0px;
+}
+
+.input__Pesquisa {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+    
+    width: 393px;
+    height: 40px;
+    
+    /* Preto/05% */
+    
+    background: #F5F5F5;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+.login__botao {
+    
+    border-color: var(--rosa);
+    
+    border-style: double;
+    width: 178px;
+    height: 55px;
+
+    color: var(--azul-claro)
+}

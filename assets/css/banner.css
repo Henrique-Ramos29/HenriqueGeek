@@ -1,0 +1,40 @@
+.banner__imagem {
+    background-image: url(/assets/img/banner.png);
+    position: relative;
+    width: 100%;
+}
+
+.banner__titulo {
+    color: #fdfdfd;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    left: 50%;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    top: 45%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.banner__titulo {
+    font-family: 'Intel', sans-serif;
+    font-size: 35px;
+}
+
+.botao__subtitulo {
+    background-color: var(--azul-claro);
+    border-color: var(--rosa);
+    border-style: double;
+    color: #fdfdfd;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    left: 50%;
+    text-shadow: 0 0px 4px rgb(0 0 0 / 75%);
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 13%;
+    height: 35px;
+    top: 59%;
+
+}
+

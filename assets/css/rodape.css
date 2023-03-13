@@ -1,0 +1,32 @@
+.rodape {
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+
+.container__footer__02 {
+    padding-top: 77px;
+    display: flex;
+    gap: 324px;
+
+}
+
+.logo__img {
+    margin-left: 24px;
+    margin-top: 50px;
+}
+
+.input__formulario__container {
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+    height: 143px;
+    gap: 6px;
+}
+
+.menu_rodape {
+    font-size: 15px;
+    gap: 20px;
+    margin: 30px;
+}
