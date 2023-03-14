@@ -45,3 +45,37 @@
 .link__rodape {
     margin-top: 5px;
 }
+
+@media (min-width: 390px) and (max-width: 450px) {
+
+    .container__footer__02 {
+        margin: auto;
+    }
+
+    .titulo__formulario {
+        text-align: center;
+    }
+    
+    .input__formulario__container {
+      margin-top: 0;
+      margin-bottom: 30px; 
+}
+
+   .logo__img {
+      margin-left: 28px;
+      margin-top: 48px;
+   }
+
+   .botao__formulario {
+      background-color: var(--rosa);
+      color: var(--branco);
+      border: none;
+      width: 256px;
+      height: 49px;
+   }
+
+   .menu_rodape {
+     text-align: center;
+     margin-left: 37px;
+   }
+}

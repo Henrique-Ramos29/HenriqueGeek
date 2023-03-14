@@ -37,3 +37,15 @@
 
     color: var(--azul-claro)
 }
+
+/* celular */
+@media (min-width: 390px) and (max-width: 450px) {
+    .cabecalho {
+        margin: 15px;
+    }
+    
+    .input__Pesquisa {
+        display: none;
+    }
+    
+}

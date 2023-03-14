@@ -27,3 +27,16 @@
 .colecao__botao {
     margin-top: 13px;
 }
+
+@media (min-width: 390px) and (max-width: 450px) {
+        .colecao__titulo__Principal {
+            font-size: 23px;
+        }
+
+        .colecao__botao {
+            background-color: var(--rosa);
+            color: var(--azul-escuro);
+            border: none;
+            
+        }
+}

@@ -26,3 +26,15 @@
 
 }
 
+@media (min-width: 390px) and (max-width: 450px) {
+    .banner__imagem {
+        width: 100%;
+    }
+
+    .botao__subtitulo {
+        position: absolute;
+        top: 177px;
+        width: auto;
+        height: auto;
+    }
+}
