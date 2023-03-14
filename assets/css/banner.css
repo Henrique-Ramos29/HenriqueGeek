@@ -34,8 +34,9 @@
 
     .botao__subtitulo {
         position: absolute;
-        top: 177px;
+        top: 200px;
         width: auto;
         height: auto;
-    }
+        
+}
 }

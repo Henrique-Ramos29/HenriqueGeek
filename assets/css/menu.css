@@ -41,7 +41,7 @@
 /* celular */
 @media (min-width: 390px) and (max-width: 450px) {
     .cabecalho {
-        margin: 20spx;
+        margin: 20px;
     }
     
     .input__Pesquisa {
