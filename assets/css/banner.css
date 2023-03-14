@@ -29,6 +29,7 @@
 @media (min-width: 390px) and (max-width: 450px) {
     .banner__imagem {
         width: 100%;
+        margin-top: 20px;
     }
 
     .botao__subtitulo {

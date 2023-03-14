@@ -49,7 +49,7 @@
 @media (min-width: 390px) and (max-width: 450px) {
 
     .container__footer__02 {
-        margin: auto;
+        margin: -23px;
     }
 
     .titulo__formulario {

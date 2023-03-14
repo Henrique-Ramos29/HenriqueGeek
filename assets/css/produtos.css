@@ -37,6 +37,15 @@
             background-color: var(--rosa);
             color: var(--azul-escuro);
             border: none;
+            margin-left: 47px;
             
+        }
+
+        .colecao__titulo {
+            text-align: center;
+        }
+
+        .colecao__descricao {
+            text-align: center;
         }
 }
