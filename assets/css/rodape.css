@@ -27,6 +27,15 @@
     gap: 6px;
 }
 
+.input__formulario {
+    height: 60px;
+    font-family: "Intel", sans-serif;
+}
+
+.textarea__mensagem {
+    font-family: "Intel", sans-serif;
+}
+
 .menu_rodape {
     margin: 0;
     padding: 0;
@@ -48,6 +57,14 @@
 
 .rodape__desevolvendor {
     text-align: center;
+    margin: 31px;
+    margin-right: 115px;
+    font-weight: bold
+}
+
+.botao__formulario {
+    background-color: var(--rosa);
+    color: var(--branco);
 }
 
 @media (min-width: 390px) and (max-width: 450px) {
@@ -85,9 +102,10 @@
 
    .rodape__desevolvendor {
     text-align: center;
+    margin: 31px;
+    margin-right: 62px;
 }
 }
-
 @media (min-width: 650px) and (max-width: 834px) {
     .container__footer__02 {
         display: flex;
@@ -98,6 +116,7 @@
 
     .titulo__formulario {
         text-align: center;
+        font-weight: bold;
     }
 
     .logo__img {
@@ -114,6 +133,8 @@
 
      .rodape__desevolvendor {
         text-align: center;
+        font-weight: bold;
+        margin-right: 86px
         
     }
 

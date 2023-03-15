@@ -9,7 +9,13 @@
     flex-flow: wrap-reverse;
     justify-content: center;
     gap: 45px;
+    flex-grow: 1;
     
+}
+
+.colecao__imagem {
+    flex-grow: 2;
+    border: 3px solid  rgba(56, 182, 255);
 }
 
 .colecao__titulo {
@@ -17,13 +23,16 @@
     font-family: 'Intel', sans-serif;
     font-size: 20px;
     margin-top: 13px;
+    font-weight: bold;
+    color: var(--azul-claro);
 }
 
 .colecao__descricao {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     margin-top: 13px;
-    color: var(--azul-escuro);
+    color: var(--rosa);
+    font-weight: bold;
 }
 
 .colecao__botao {
@@ -31,7 +40,8 @@
     background-color: var(--rosa);
     color: var(--branco);
     border: none;
-    margin-left: 47px;
+    margin-left: 50px;
+    font-weight: bold;
     
 }
 
@@ -44,7 +54,7 @@
             background-color: var(--rosa);
             color: var(--branco);
             border: none;
-            margin-left: 47px;
+            margin-left: 50px;
             
         }
 
@@ -54,6 +64,7 @@
 
         .colecao__descricao {
             text-align: center;
+            font-weight: bold;
         }
         
 }
@@ -67,7 +78,7 @@
             background-color: var(--rosa);
             color: var(--branco);
             border: none;
-            margin-left: 47px;
+            margin-left: 50px;
             
         }
 
@@ -77,5 +88,6 @@
 
         .colecao__descricao {
             text-align: center;
+            font-weight: bold;
         }
 }

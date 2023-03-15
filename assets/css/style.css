@@ -27,3 +27,16 @@ coloque nas sessões indicadas*/
     list-style: none;
   }
   
+  a:hover {
+    color: var(--azul-claro);
+    font-weight: bold;
+    
+  }
+
+  button:hover {
+    padding-block-start: 6px;
+    padding-bottom: 6px;
+    color: var(--branco);
+    font-weight: bold;
+    background-color: var(--azul-claro);
+  }
