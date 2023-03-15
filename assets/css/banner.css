@@ -40,3 +40,14 @@
         
 }
 }
+
+@media (min-width: 650px) and (max-width: 834px) {
+    .banner__imagem{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .botao__subtitulo {
+        display: none;
+    }
+}

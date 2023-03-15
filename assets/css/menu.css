@@ -47,5 +47,15 @@
     .input__Pesquisa {
         display: none;
     }
-    
+}
+
+@media (min-width: 650px) and (max-width: 834px) {
+     .cabecalho {
+        margin: 10px;
+     }
+
+     .input__Pesquisa {
+        width: 200px;
+     }
+
 }

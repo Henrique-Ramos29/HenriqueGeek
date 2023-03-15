@@ -13,12 +13,14 @@
 }
 
 .colecao__titulo {
+    text-align: center;
     font-family: 'Intel', sans-serif;
     font-size: 20px;
     margin-top: 13px;
 }
 
 .colecao__descricao {
+    text-align: center;
     font-family: 'Open Sans', sans-serif;
     margin-top: 13px;
     color: var(--azul-escuro);
@@ -26,6 +28,11 @@
 
 .colecao__botao {
     margin-top: 13px;
+    background-color: var(--rosa);
+    color: var(--branco);
+    border: none;
+    margin-left: 47px;
+    
 }
 
 @media (min-width: 390px) and (max-width: 450px) {
@@ -33,6 +40,29 @@
             font-size: 23px;
         }
 
+        .colecao__botao {
+            background-color: var(--rosa);
+            color: var(--branco);
+            border: none;
+            margin-left: 47px;
+            
+        }
+
+        .colecao__titulo {
+            text-align: center;
+        }
+
+        .colecao__descricao {
+            text-align: center;
+        }
+        
+}
+
+@media (min-width: 650px) and (max-width: 834px) {
+        .colecao__titulo__Principal {
+            font-size: 25px;
+        }
+        
         .colecao__botao {
             background-color: var(--rosa);
             color: var(--branco);
