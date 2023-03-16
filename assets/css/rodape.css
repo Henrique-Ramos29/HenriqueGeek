@@ -105,7 +105,7 @@
     margin: 31px;
     margin-right: 29px;
 }
-}
+
 @media (min-width: 650px) and (max-width: 834px) {
     .container__footer__02 {
         display: flex;

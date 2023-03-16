@@ -1,8 +1,25 @@
+.colecao__container__titulo {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ver__todos {
+    margin-right: 63px;
+    margin-top: 27px;
+    font-size: 19px;
+    font-weight: bold;
+    color: var(--rosa)
+
+}
+
 .colecao__titulo__Principal {
     text-align: center;
-    font-size: 33px;
-    margin-bottom: 34px;
-    margin-top: 40px;
+    font-size: 25px;
+    margin-top: 28px;
+    margin-left: 63px;
+    font-weight: bold;
+    margin-bottom: revert;
 }
 .colecao__geral{
     display: flex;
