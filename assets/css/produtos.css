@@ -65,6 +65,11 @@
 @media (min-width: 390px) and (max-width: 450px) {
         .colecao__titulo__Principal {
             font-size: 23px;
+            margin-left: 15px;
+        }
+
+        .ver__todos {
+            margin-right: 17px;
         }
 
         .colecao__botao {
