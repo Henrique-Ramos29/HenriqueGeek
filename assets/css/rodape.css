@@ -30,10 +30,16 @@
 .input__formulario {
     height: 60px;
     font-family: "Intel", sans-serif;
+    background: var(--azul-clarinho);
+    border: none;
+    border-radius: 4px;
 }
 
 .textarea__mensagem {
     font-family: "Intel", sans-serif;
+    background: var(--azul-clarinho);
+    border: none;
+    border-radius: 4px;
 }
 
 .menu_rodape {
@@ -65,6 +71,8 @@
 .botao__formulario {
     background-color: var(--rosa);
     color: var(--branco);
+    border: none;
+    border-radius: 4px;
 }
 
 @media (min-width: 390px) and (max-width: 450px) {

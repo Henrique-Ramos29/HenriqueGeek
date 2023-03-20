@@ -30,12 +30,13 @@
 .login__botao {
     
     border-color: var(--rosa);
-    
+    border-radius: 4px;
     border-style: double;
     width: 178px;
     height: 55px;
 
     color: var(--azul-claro)
+    
 }
 
 /* celular */
