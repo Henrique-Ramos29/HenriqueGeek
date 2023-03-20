@@ -71,6 +71,7 @@
 
     .container__footer__02 {
         margin: -10px;
+        margin-right: 83px;
     }
 
     .titulo__formulario {
@@ -83,7 +84,7 @@
 }
 
    .logo__img {
-      margin-left: 28px;
+      margin-left: 0px;
       margin-top: 48px;
    }
 
@@ -95,7 +96,7 @@
       height: 49px;
    }
 
-   .menu_rodape {
+   .menu__rodape {
      text-align: center;
      margin-left: 37px;
    }
