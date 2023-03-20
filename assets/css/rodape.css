@@ -10,8 +10,8 @@
     
     flex-flow: wrap-reverse;
     padding-top: 77px;
-    justify-content: space-between;
-    margin-right: 135px;
+    justify-content: space-around;
+    margin-left: -138px;
 }
 
 .logo__img {

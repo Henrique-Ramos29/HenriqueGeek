@@ -1,0 +1,59 @@
+.rodape__login {
+    margin-top: 150px;
+}
+
+.container__footer__login {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 143px;
+    margin-top: 16rem;
+}
+
+.rodape__desevolvendor__login {
+    text-align: center;
+}
+
+@media (min-width: 390px) and (max-width: 450px) {
+    .rodape__login {
+        margin-top: 52px;
+        margin-inline: -56px;
+    }
+
+    .container__footer__login {
+        display: flex;
+        flex-direction: column;
+        gap: 31px;
+        margin-top: 5rem;
+
+    }
+
+    .menu_rodape { 
+        text-align: center;
+        margin-left: 6px;
+    }
+
+    .rodape__desevolvendor__login {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .input__formulario {
+        background-color: var(--azul-clarinho);
+        border-radius: 4px;
+        border-style: hidden;
+    }
+
+    .textarea__mensagem {
+        background-color: var(--azul-clarinho);
+        border-radius: 4px;
+        border-style: hidden;
+    }
+
+    .botao__formulario {
+         border-radius: 4px;
+    }
+
+
+
+}
