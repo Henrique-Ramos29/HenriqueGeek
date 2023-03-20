@@ -70,8 +70,8 @@
 @media (min-width: 390px) and (max-width: 450px) {
 
     .container__footer__02 {
-        margin: -10px;
-        margin-right: 83px;
+        margin: 0px;
+        margin-right: 114px;
     }
 
     .titulo__formulario {
@@ -98,7 +98,7 @@
 
    .menu__rodape {
      text-align: center;
-     margin-left: 37px;
+     margin-left: 11px;
    }
 
    .rodape__desevolvendor {
