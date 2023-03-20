@@ -56,6 +56,7 @@
 @media (min-width: 390px) and (max-width: 450px) {
     .logo {
         margin-right: 16px;
+        width: 250px;
     }
 
     .container {
@@ -67,24 +68,25 @@
 
     .login__input {
         align-self: center;
-        width: 270px;
-        height: 36px;
+        width: 310px;
+        height: 47px;
         margin-top: -73px;
-        margin-left: 77px;
+        margin-left: 57px;
                 
     } 
 
     .login__senha {
-        width: 270px;
-        height: 36px;  
+        width: 310px;
+        height: 47px;  
     }
 
     .botao__entra {
         left: 0;
-        top: 272px;
+        top: 326px;
         width: 210px;
         height: 36px;
         margin-left: 106px;
         border-radius: 4px;
     }
+
 }
