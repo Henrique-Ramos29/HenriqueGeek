@@ -90,3 +90,51 @@
     }
 
 }
+
+@media (min-width: 650px) and (max-width: 834px) {
+    .texto__login {
+        margin-top: 17px;
+        text-align: center;
+    }
+
+    .container {     
+        display: flex;
+        flex-direction: column;
+        margin-top: 113px;
+        gap: 7px;
+    }
+
+    .botao__entra {
+        left: 128px;
+        width: 427px;
+        margin-top: -20px
+        
+    }
+
+    .titulo__formulario {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .logo__img {
+        margin-right: 41px;
+    }
+
+    .botao__formulario {
+        background-color: var(--rosa);
+        color: var(--branco);
+        border: none;
+        width: 256px;
+        height: 49px;
+     }
+
+     .rodape__desevolvendor {
+        text-align: center;
+        font-weight: bold;
+        margin-right: 86px
+        
+    }
+
+
+
+}

@@ -57,3 +57,21 @@
 
 
 }
+
+
+@media (min-width: 650px) and (max-width: 834px) {
+    .container__footer {
+        display: none;
+    }
+
+    .rodape__desevolvendor__login {
+        font-weight: bold;
+        color: var(--azul-claro);
+    }
+
+    .botao__entra {
+        border-radius: 4px;
+
+    }
+
+}
