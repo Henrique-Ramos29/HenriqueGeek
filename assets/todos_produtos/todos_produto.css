@@ -1,3 +1,8 @@
+.cabecalho__produtos {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
 
 .colecao__container__todos_produtos {
         display: flex;
