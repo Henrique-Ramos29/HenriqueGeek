@@ -1,0 +1,37 @@
+.input__Pesquisa, .produto {
+    margin-top: 52px;
+
+}
+
+.cabecalho__produto {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container__produto {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin: 90px;
+}
+.titulo__produto {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.descricao__produto {
+    font-size: 17px;
+    
+}
+
+.container__texto {
+    margin-top: 130px;
+}
+
+.valor__produto {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--rosa);
+    margin-bottom: 15px;
+}
