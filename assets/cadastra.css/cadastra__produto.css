@@ -1,0 +1,57 @@
+.texto__cadastra__produto {
+    margin-top: 1px;
+}
+.input__nome {
+    margin-top: 152px;
+
+}
+
+.input__preco {
+    margin-top: 19px
+
+}
+
+.botao__cadastra {
+    margin-top: 48px;
+    border-radius: 4px;
+    margin-left: 599px;
+}
+
+
+.cadastra__produto {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container__botao__edita__excluir {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    color: var(--rosa);
+}
+
+@media (min-width: 390px) and (max-width: 450px) {
+
+    .input__nome {
+        margin-top: 45px
+
+    }
+}
+
+@media (min-width: 650px) and (max-width: 834px) {
+    .input__nome {
+        margin-top: 94px;
+        margin-right: 3px
+    }
+
+    .input__preco {
+        margin-right: 4px;
+    }
+
+    .botao__cadastra {
+        margin-left: 58px;
+    }
+}

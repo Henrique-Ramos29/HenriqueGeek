@@ -29,20 +29,14 @@
 }
 
  .botao__entra {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     padding: 12px 16px;
-    gap: 10px;
-
-    position: absolute;
     width: 430px;
     height: 63px;
-    left: 500px;
-    top: 435px;
     background: var(--rosa);
     border-style: hidden;
+    margin-top: 31px;
+    margin-left: 589px;
+    border-radius: 4px;
 }
 
 .texto__login {

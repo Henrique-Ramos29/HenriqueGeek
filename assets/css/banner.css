@@ -9,7 +9,7 @@
     font-size: 35px;
 }
 
-.botao__subtitulo {
+.botao__banner {
     background-color: var(--rosa);
     border-color: var(--rosa);
     border-style: double;
