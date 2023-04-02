@@ -1,5 +1,12 @@
 {
-  "profile": [],
+  "profile": [
+    {
+      "imgURL": "https://github.com/mqsoares/ChallengeONE-Sprint-02/blob/main/assets/img/listProducts/xyz1.png?raw=true",
+      "name": "Produto teste",
+      "price": "290.00",
+      "id": 1
+    }
+  ],
   "posts": [
     {
       "id": 1,

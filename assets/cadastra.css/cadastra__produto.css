@@ -33,6 +33,19 @@
     color: var(--rosa);
 }
 
+a.botao__edita {
+    color: var(--azul-claro);
+    font-weight: bold;
+}
+
+a.botao__edita:hover {
+    color: var(--rosa)
+}
+
+a.botao__excluir {
+    font-weight: bold;
+}
+
 @media (min-width: 390px) and (max-width: 450px) {
 
     .input__nome {

@@ -9,14 +9,15 @@ $formularioCadastro.addEventListener('submit', async (evento) => {
         const imgURL = evento.target.querySelector('[data-form-url]').value
         const name = evento.target.querySelector('[data-form-nome]').value
         const price = evento.target.querySelector('[data-form-preco]').value
-
+        const id = evento.target.querySelector('[data-id]')
+     
         await $adicionarProduto.$criarProduto(imgURL, name, price, id)
-        window.location.href = "../lista__produto.html"
+        window.location.href = '../lista__produto.html'
     }
     catch(erro) {
         console.log(erro)
         window.location.href = '../index.html'
-        alert('ops tente mais tarde')
+        
     }
        
 
