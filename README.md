@@ -14,9 +14,10 @@ Todo layout foi disponibilizado no Figma e para organização ágil de desenvolv
 Usamos o JSON server simulando uma API, para criação de um `CRUD / Create, Read, Update e Delete` no passo 3 de como iniciar esse projeto descreve como subir a API.
 Para mais detalhes acesse: https://www.npmjs.com/package/json-server
 
-### :wrench: npm install -g browser-sync.
+### :wrench: npm install -g BROwSER.
 
-use o comando
+USE COMANDO
+</br>
 browser-sync start --server --file . --host --port 5000 --starPath admin/lista\_\_produto.html
 
 ### :warning: Como iniciar esse projeto.
@@ -30,7 +31,7 @@ OU siga os Passos a seguir :arrow_down:
 #### Passo 1 - Clonar o projeto (baixar para sua maquina) Via HTTPS ou SSH
 
 HTTPS `git clone https://github.com/Henrique-Ramos29/HenriqueGeek.git
- <br>
+</br>
  SSH `git clone git@github.com:Henrique-Ramos29/HenriqueGeek.git
 
 #### Passo 2 - Instalar o NodeJS
