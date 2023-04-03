@@ -1,36 +1,5 @@
 {
-  "profile": [
-    {
-      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/controlle-03.png?raw=true",
-      "name": "Produto 01'",
-      "price": "67.00",
-      "id": 1
-    },
-    {
-      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/controlle-01.png?raw=true",
-      "name": "Produto 02",
-      "price": "56",
-      "id": 2
-    },
-    {
-      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/controlle-04.png?raw=true",
-      "name": "Produto  03",
-      "price": "30.00",
-      "id": 3
-    },
-    {
-      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/diversos-05.png?raw=true",
-      "name": "Produto 04",
-      "price": "89.00",
-      "id": 4
-    },
-    {
-      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/diversos-02.png?raw=true",
-      "name": "Produto 05",
-      "price": "98.00",
-      "id": 5
-    }
-  ],
+  "profile": [],
   "posts": [
     {
       "id": 1,
