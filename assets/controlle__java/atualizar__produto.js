@@ -25,7 +25,7 @@ import { $adicionarProduto } from "../js/adicionar__produto.js"
         evento.preventDefault()
         try {
 
-            await $adicionarProduto.$atualizaProduto(id, inputImgURL.value, inputName.value, inputPric.value)
+            await $adicionarProduto.$atualizaProduto(id, inputImgURL.value, inputName.value, inputPric.value) 
             window.location.href = "../lista__Produto.html"
             alert('Produto editado com sucesso.')
         }

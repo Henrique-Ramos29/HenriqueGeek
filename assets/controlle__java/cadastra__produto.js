@@ -13,6 +13,7 @@ $formularioCadastro.addEventListener('submit', async (evento) => {
      
         await $adicionarProduto.$criarProduto(imgURL, name, price, id)
         window.location.href = '../lista__produto.html'
+        alert('Cadastrado com sucesso!!!')
     }
     catch(erro) {
         console.log(erro)

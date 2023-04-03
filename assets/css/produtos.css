@@ -13,6 +13,10 @@
 
 }
 
+a .colecao__botao:hover {
+    color: var(--branco);
+}
+
 .colecao__titulo__Principal {
     text-align: center;
     font-size: 25px;

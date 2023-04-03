@@ -1,7 +1,25 @@
 <div align='center'>
 
-<h1> Challenge ONE | Front End - AluraGeek </h1>
+<h1> Challenge ONE Education| Front End - AluraGeek </h1>
 <img src="./assets/img/projeto.png">
+
+### Login Usurio e Senha
+
+Usuario: henriquegeek@alura.com
+</br>
+Senha: 1234
+
+#### URL adicionar imagem
+
+https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/controlle-03.png?raw=true
+</br>
+https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/controlle-01.png?raw=true
+</br>
+https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/controlle-04.png?raw=true
+</br>
+https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/diversos-05.png?raw=true
+</br>
+https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/diversos-02.png?raw=true
 
 ## :clipboard: Sobre o Projeto
 
@@ -54,15 +72,3 @@ Para mais detalhes acesse: https://marketplace.visualstudio.com/items?itemName=r
 - CSS
 - JavaScript
 - JSON-server
-
-
-#### Link de imagem 
-https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/controlle-03.png
-
-</br>
-
-https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/controlle-01.png
-
-</br>
-
-https://github.com/Henrique-Ramos29/HenriqueGeek/blob/687bb803bf03c18df5255400b0b68fb948ebd27a/assets/img/produtoxyz-.png

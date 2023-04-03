@@ -27,6 +27,14 @@
     margin-top: 5px;
 }
 
+.colecao__container__titulo {
+    font-size: 27px;
+    font-weight: bold;
+    margin-block-end: 17px;
+    margin-left: 84px;
+
+}
+
 @media (min-width: 390px) and (max-width: 450px) {
     .colecao__titulo__todos__produtos {
         font-size: 17px;
