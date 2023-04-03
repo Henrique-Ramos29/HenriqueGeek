@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1> Challenge ONE Education| Front End - AluraGeek </h1>
-<video src="./assets/img/video.mp4"></video>
+<img src="./assets/img/projeto.png">
 
 ## Login Usurio e Senha
 
