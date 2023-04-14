@@ -3,18 +3,28 @@
 }
 .input__nome {
     margin-top: 152px;
+    font-weight: bold;
+    font-size: 20px;
+
 
 }
 
+.input__url {
+    font-weight: bold;
+    font-size: 20px;
+}
+
 .input__preco {
-    margin-top: 19px
+    margin-top: 19px;
+    font-weight: bold;
+    font-size: 20px;
 
 }
 
 .botao__cadastra {
     margin-top: 48px;
     border-radius: 4px;
-    margin-left: 599px;
+    margin-left: 510px;
 }
 
 
@@ -24,6 +34,7 @@
     width: 100%;
     margin: 0;
     padding: 0;
+    
 }
 
 .container__botao__edita__excluir {

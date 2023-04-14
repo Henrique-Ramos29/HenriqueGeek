@@ -1,5 +1,18 @@
 {
-  "profile": [],
+  "profile": [
+    {
+      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/controlle-04.png?raw=true",
+      "name": "henrique",
+      "price": "20.00",
+      "id": 1
+    },
+    {
+      "imgURL": "https://github.com/Henrique-Ramos29/HenriqueGeek/blob/abf2f9511bd1c7315232334ca4b72abb2f11313f/assets/img/diversos-02.png?raw=true",
+      "name": "Produto xpm",
+      "price": "390.00",
+      "id": 2
+    }
+  ],
   "posts": [
     {
       "id": 1,

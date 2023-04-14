@@ -13,6 +13,8 @@
     background: var(--azul-clarinho);
     border-radius: 4px;
     border-style: hidden;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .login__senha {
@@ -26,6 +28,8 @@
     align-self: center;
     flex-grow: 1;
     border-style: hidden;
+    font-weight: bold;
+    font-size: 20px;
 }
 
  .botao__entra {
@@ -35,7 +39,7 @@
     background: var(--rosa);
     border-style: hidden;
     margin-top: 31px;
-    margin-left: 589px;
+    margin-left: 500px;
     border-radius: 4px;
 }
 
